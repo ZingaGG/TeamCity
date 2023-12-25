@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCity", "TeamCity\TeamCity.csproj", "{99BB232E-D6D4-4AD2-B0B0-EA463EF8F909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamCity", "TeamCity\TeamCity.csproj", "{99BB232E-D6D4-4AD2-B0B0-EA463EF8F909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{D4E9BC7E-FA7C-4656-968B-806C3A5C12D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{99BB232E-D6D4-4AD2-B0B0-EA463EF8F909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99BB232E-D6D4-4AD2-B0B0-EA463EF8F909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99BB232E-D6D4-4AD2-B0B0-EA463EF8F909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E9BC7E-FA7C-4656-968B-806C3A5C12D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E9BC7E-FA7C-4656-968B-806C3A5C12D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E9BC7E-FA7C-4656-968B-806C3A5C12D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E9BC7E-FA7C-4656-968B-806C3A5C12D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
